@@ -1,0 +1,35 @@
+# Carpeta de contexto adicional (no subir al repositorio)
+contexto/
+
+# Modelos .pkl (reensamblado y generados en notebooks)
+modelo_ods_pipeline.pkl
+notebooks/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
+
+# Variables de entorno y secretos
+.env
+*.env
+
