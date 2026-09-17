@@ -4,7 +4,7 @@ Proyecto desarrollado como parte del **Microproyecto 2** de la materia Machine L
 
 El clasificador alcanza un **86% de accuracy** y un **F1-Macro de 83%** sobre datos que no vio durante el entrenamiento.
 
-**App en vivo:** [clasificador-ods.streamlit.app](https://clasificador-ods-9mb7mgz56gua7uhmmthdbq.streamlit.app/)
+**App en vivo:** [clasificador-ods.streamlit.app](https://uniandes-maia-mlns-odsclass-2026-g28.streamlit.app/)
 
 ---
 
